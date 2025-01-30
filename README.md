@@ -1,0 +1,2 @@
+# Exploratory-Data-Analysis-on-Superstore-Dataset-using-Python-in-Jupyter-nootbook
+Performed Exploratory Data Analysis (EDA) on the Sample Superstore dataset to uncover sales trends, profitability patterns, and key business insights. Built a machine learning model to classify transactions as profit or loss using SVM, Decision Tree, and Random Forest, ensuring accurate predictions for strategic decision-making.
