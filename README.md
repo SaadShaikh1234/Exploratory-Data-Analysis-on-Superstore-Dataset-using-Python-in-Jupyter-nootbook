@@ -1,4 +1,3 @@
-# Exploratory-Data-Analysis-on-Superstore-Dataset-using-Python-in-Jupyter-nootbook
 # 🧪 Exploratory Data Analysis on Superstore Dataset using Python in Jupyter Notebook
 
 This project involves performing **Exploratory Data Analysis (EDA)** on the popular **Sample Superstore** dataset to uncover actionable business insights and trends. Additionally, a **Streamlit-based web app** is built for predicting whether an order leads to **profit or loss** using a trained **Random Forest model**.
