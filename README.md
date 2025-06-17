@@ -60,14 +60,20 @@ A web interface for real-time prediction of **Profit/Loss** based on order input
 
 ### 🏃 How to Run the App
 
-1. Clone the repository:
+## 1. Clone the repository:
    ```bash
    git clone https://github.com/<your-username>/Exploratory-Data-Analysis-on-Superstore-Dataset-using-Python-in-Jupyter-nootbook.git
-2. Navigate to the app folder:
+
+## 2. Navigate to the app folder:
+
    cd "Exploratory-Data-Analysis-on-Superstore-Dataset-using-Python-in-Jupyter-nootbook/Sample Superstore Steamlit"
-3. Install dependencies:
+
+## 3. Install dependencies:
+
    pip install -r requirements.txt
-4. Run the app:
+
+## 4. Run the app:
+
    streamlit run app.py
 
 ### 📦 Requirements
