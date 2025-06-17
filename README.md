@@ -63,6 +63,7 @@ A web interface for real-time prediction of **Profit/Loss** based on order input
 ## 1. Clone the repository:
    ```bash
    git clone https://github.com/<your-username>/Exploratory-Data-Analysis-on-Superstore-Dataset-using-Python-in-Jupyter-nootbook.git
+```
 
 ## 2. Navigate to the app folder:
 
