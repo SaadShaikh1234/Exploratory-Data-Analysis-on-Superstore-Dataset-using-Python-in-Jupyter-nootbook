@@ -25,10 +25,15 @@ This project involves performing **Exploratory Data Analysis (EDA)** on the popu
 ## 📁 Repository Structure
 
 ├── Sample Superstore EDA.ipynb # Jupyter notebook for data analysis
+
 ├── Sample Superstore Steamlit/
+
 │ ├── app.py # Streamlit application script
+
 │ ├── SampleSuperstore.csv # Dataset used for prediction
+
 │ └── random_forest_model.pkl # Trained ML model
+
 └── README.md # Project documentation
 
 
