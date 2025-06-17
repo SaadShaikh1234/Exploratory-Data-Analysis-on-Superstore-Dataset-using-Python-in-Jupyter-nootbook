@@ -81,14 +81,9 @@ A web interface for real-time prediction of **Profit/Loss** based on order input
 ### 📦 Requirements:
 To run this project, install the following libraries:
 
-streamlit
-
-pandas
-
-scikit-learn
-
-joblib
-
-matplotlib
-
-seaborn
+• streamlit  
+• pandas  
+• scikit-learn  
+• joblib  
+• matplotlib  
+• seaborn  
