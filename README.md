@@ -1,7 +1,6 @@
 # 🧪 Exploratory Data Analysis on Superstore Dataset using Python in Jupyter Notebook
 
-This project involves performing **Exploratory Data Analysis (EDA)** on the popular **Sample Superstore** dataset to uncover actionable business insights and trends. Additionally, a **Streamlit-based web app** is built for predicting whether an order leads to **profit or loss** using a trained **Random Forest, Decision Tree, SVM model**.
-
+This project involves performing **Exploratory Data Analysis (EDA)** on the popular **Sample Superstore** dataset to uncover actionable business insights and profitability trends. Additionally, a **Streamlit-based web app** was developed using a trained **Random Forest** model—selected after comparing **Random Forest, Decision Tree, and SVM** to predict whether a new order will result in **profit or loss**.
 ---
 
 ## 📌 Project Objectives
